@@ -5,3 +5,5 @@ Record and save the content of the data, so that I can call the data and practic
 https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/#k-means-clustering-python-code
 
 https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
+
+https://patriziacastagnod.medium.com/k-means-clustering-python-4eec18b4f0ec
